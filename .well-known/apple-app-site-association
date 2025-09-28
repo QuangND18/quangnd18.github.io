@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": "77JFGHGK85.com.pantheraplay.projecth",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "77JFGHGK85.com.pantheraplay.projecth"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "77JFGHGK85.com.pantheraplay.projecth"
+    ]
+  }
+}
