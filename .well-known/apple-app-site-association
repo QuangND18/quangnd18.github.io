@@ -1,15 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": [
-          "77JFGHGK85.com.pantheraplay.projecth"
-        ],
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
+        "appIDs": "77JFGHGK85.com.pantheraplay.projecth",
+        "paths": ["*"]
       }
     ]
   },
